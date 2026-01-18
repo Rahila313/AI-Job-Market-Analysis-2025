@@ -26,5 +26,19 @@ Analysis of 15,000 AI job listings from 2025 to understand job demand and salary
 - ggplot2
 - caret
 
+## Visualizations
+
+### Salary Distribution
+![Salary Distribution](images/Salary%20distribution%20histogram.png)
+
+### Salary by Experience Level
+![Salary by Experience](images/Salary%20by%20experience%20(violin%20plot).png)
+
+### Salary by Country
+![Salary by Country](images/Salary%20by%20country%20(boxplot).png)
+
+### Top AI Job Titles
+![Top AI Jobs](images/Top%20AI%20jobs%20bar%20chart.png)
+
 ## Takeaway
 This project demonstrates how data analysis and modeling can uncover meaningful trends in the AI job market and explain salary differences across roles, experience levels, and countries.
